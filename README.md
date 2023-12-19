@@ -1,4 +1,4 @@
-# This repo is a Dapp to make is user interactive and is an extension of my previous repo
+# This repo is a Dapp to make it user interactive and is an extension of my previous repo ```https://github.com/GENxSOLAR/A-Basic-Crowd-Funding-Project.git```
 
 # Basic-Crowd-Funding-Dapp
 
