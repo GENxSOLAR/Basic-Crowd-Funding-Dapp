@@ -25,7 +25,7 @@ This is a minimalistic example what you can find in the [metamask docs](https://
 
 ```
 git clone https://github.com/GENxSOLAR/Basic-Crowd-Funding-Dapp.git
-cd Basic-Crowd-Funding-Dapp
+cd Basic-Crowd-Funding-Dapp-main
 ```
 
 2. Run the file.
